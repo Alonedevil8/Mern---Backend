@@ -1,6 +1,6 @@
-# Project Name
+# Project Uptask: MERN stack - Backend
 
-Aprendiendo MERN stack - Backend
+
 Description
 
 This project is a backend application for learning the MERN (MongoDB, Express.js, React, Node.js) stack. It focuses on building a project management system.
