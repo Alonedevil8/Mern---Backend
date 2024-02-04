@@ -3,6 +3,7 @@
 Descripción
 
 Este proyecto consiste en una aplicación backend desarrollada como parte del aprendizaje del stack MERN (MongoDB, Express.js, React, Node.js). El enfoque principal está en la creación de un sistema de gestión de proyectos.
+
 Características
 
     Autenticación de usuario con bcrypt y JWT.
@@ -11,6 +12,7 @@ Características
     ...
 
 Inicio
+
 Prerrequisitos
 
     Node.js y npm instalados.
